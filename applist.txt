@@ -1,3 +1,6 @@
+
 sudo apt install mate-system-monitor
 sudo apt install indicator-multiload
 sudo apt install indicator-cpufreq
+sudo apt install unity-tweak-tool
+sudo apt install fcitx
