@@ -1,0 +1,3 @@
+sudo apt install mate-system-monitor
+sudo apt install indicator-multiload
+sudo apt install indicator-cpufreq
