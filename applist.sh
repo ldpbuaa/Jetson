@@ -4,3 +4,4 @@ sudo apt install -y indicator-cpufreq
 sudo apt install -y unity-tweak-tool
 sudo apt install -y fcitx
 sudo apt install -y aptitude
+sudo apt install -y libavahi-compat-libdnssd1 # install necessary lib for synergy
